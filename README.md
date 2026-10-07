@@ -2,7 +2,7 @@
 
 - Họ và tên: Nguyễn Long Khánh
 - MSSV / mã học viên: 3003934
-- Lớp: [Điền lớp]
+- Lớp: H201
 - Ngành đã chọn: HR / tuyển dụng (AI sàng lọc CV, đánh giá hoặc hỗ trợ tuyển ứng viên)
 
 ### 1. Industry Risk Snapshot
